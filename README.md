@@ -22,7 +22,7 @@ Make sure you have `python` 3.6 or above installed, by running `python --version
 - Clone this repo and move into it to get started.
 
 ```shell
-git clone https://github.com/aahnik/telegram-chat-forward.git && cd telegram-chat-forward
+git clone https://github.com/rajaganapathy2000/tgcf.git && cd tgcf
 ```
 
 - Install dependancies.
